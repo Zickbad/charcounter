@@ -4,7 +4,7 @@ def contar_caracteres(texto):
     return len(texto)
 
 # Solicita al usuario que ingrese un texto
-texto = input("Ingrese el texto que desea contar: ")
+texto = input("Ingrese el texto que desea contar ahora: ")
 
 # Llama a la función contar_caracteres y muestra el resultado
 numero_de_caracteres = contar_caracteres(texto)
